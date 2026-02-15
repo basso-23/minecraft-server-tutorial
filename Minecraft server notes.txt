@@ -1,0 +1,55 @@
+-------------------------------------------------
+SERVER PROPERTIES
+-------------------------------------------------
+
+level-name=nombre_del_mundo
+
+level-seed=
+
+motd=§c§lSurvival con Amigos §e| §fRisas, muertes y loot ⚔️
+
+pvp=true
+
+hardcore=false
+
+difficulty=hard
+# Opciones: peaceful | easy | normal | hard
+
+gamemode=survival
+# Opciones: survival | creative | adventure | spectator
+
+online-mode=false
+# Verifica cuentas premium con Mojang
+
+
+-------------------------------------------------
+MINECRAFT FORGE 1.20.1 WHEN CREATING SERVER
+-------------------------------------------------
+
+BUILD TYPE: recommended
+
+MINECRAFT VERSION: latest
+
+FORGE VERSION: 1.20.1-47.4.10 
+
+
+-------------------------------------------------
+MINECRAFT FABRIC 1.20.1 WHEN CREATING SERVER
+-------------------------------------------------
+
+MINECRAFT VERSION: 1.20.1
+
+FABRIC VERSION: latest
+
+FABRIC LOADER VERSION: latest
+
+
+-------------------------------------------------
+VPS LOCATION OF SERVER
+------------------------------------------------- 
+
+cd /root
+cd /var/lib/pterodactyl/volumes/fb1c97af-8917-42d6-89c1-678c817c7904/mods
+
+
+
